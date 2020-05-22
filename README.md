@@ -4,7 +4,7 @@ Describe about statistical analysis and process control
 ## Content
 1. [x] Simple linear regression - Version 1
 2. [x] Simple linear regression - Version 2
-3. [ ] Polynomial regression
+3. [x] Polynomial regression
 4. [ ] Multiple linear regression
 5. [ ] Auto regressive model
 6. [ ] Moving average model
