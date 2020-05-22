@@ -12,3 +12,4 @@ Describe about statistical analysis and process control
 8. [ ] ARIMA model
 9. [ ] Neural Network Model - version 1
 10. [ ] FB Prophet Forecasting
+11. [ ] Logistics Regression
