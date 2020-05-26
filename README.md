@@ -5,7 +5,7 @@ Describe about statistical analysis and process control
 1. [x] Simple linear regression - Version 1
 2. [x] Simple linear regression - Version 2
 3. [x] Polynomial regression
-4. [ ] Multiple linear regression
+4. [x] Multiple linear regression
 5. [ ] Auto regressive model
 6. [ ] Moving average model
 7. [ ] ARMA model
@@ -13,3 +13,4 @@ Describe about statistical analysis and process control
 9. [ ] Neural Network Model - version 1
 10. [x] FB Prophet Forecasting
 11. [ ] Logistics Regression
+12. [ ] Multinomial Regression
