@@ -23,5 +23,10 @@ Describe about statistical analysis and process control
 17. [ ] Logistics Regression
 18. [ ] Multinomial Regression
 
+
+### Statistical Analysis
+1. [x] Control Diagram Cusum and Vmask  -- Matlab
+2. [x] Box-Cos Transformation Step by Step -- Matlab
+
 ### Neural Network Approach
 To be continued
